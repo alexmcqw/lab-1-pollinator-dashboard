@@ -6,9 +6,10 @@ This dashboard analyzes pollinator activity data from a local farm to answer thr
 
 The dataset contains observations from June 1-30, 2024, across four garden plots (A, B, C, D) with three bee species (Honeybee, Bumblebee, Carpenter Bee) visiting three flower types (Lavender, Sunflower, Coneflower).
 
-## Question 1: Body Mass Distribution by Pollinator Species
+## Complete Dashboard
 
 ```js
+// Question 1: Body Mass Distribution
 Plot.plot({
   title: "Body Mass Distribution by Pollinator Species",
   marks: [
@@ -52,9 +53,8 @@ Plot.plot({
 })
 ```
 
-## Question 1: Wing Span Distribution by Pollinator Species
-
 ```js
+// Question 1: Wing Span Distribution
 Plot.plot({
   title: "Wing Span Distribution by Pollinator Species",
   marks: [
@@ -98,9 +98,8 @@ Plot.plot({
 })
 ```
 
-## Question 2: Pollinator Activity by Weather Condition
-
 ```js
+// Question 2: Weather Conditions
 Plot.plot({
   title: "Pollinator Activity by Weather Condition",
   marks: [
@@ -144,9 +143,8 @@ Plot.plot({
 })
 ```
 
-## Question 3: Nectar Production by Flower Species
-
 ```js
+// Question 3: Nectar Production
 Plot.plot({
   title: "Nectar Production by Flower Species",
   marks: [
