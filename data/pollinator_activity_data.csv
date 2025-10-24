@@ -1,0 +1,256 @@
+date,observation_hour,observation_minute,location,temperature,humidity,wind_speed,weather_condition,flower_species,nectar_production,pollinator_species,pollinator_group,visit_count,avg_body_mass_g,avg_wing_span_mm
+2024-06-01,8,15,Plot A,18,65,3,Sunny,Lavender,0.8,Honeybee,Small Bee,12,0.12,18
+2024-06-01,9,30,Plot B,20,60,2,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,8,0.28,25
+2024-06-01,10,45,Plot C,22,55,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,5,0.45,35
+2024-06-01,11,20,Plot D,24,50,3,Sunny,Lavender,0.7,Honeybee,Small Bee,15,0.11,17
+2024-06-01,14,10,Plot A,26,45,5,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,10,0.30,26
+2024-06-01,15,35,Plot B,28,40,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,6,0.48,38
+2024-06-01,16,50,Plot C,25,55,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,9,0.13,19
+2024-06-01,17,25,Plot D,23,60,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,7,0.26,24
+2024-06-02,7,45,Plot A,16,70,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,6,0.10,16
+2024-06-02,8,30,Plot B,18,65,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,9,0.29,27
+2024-06-02,9,15,Plot C,20,60,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,4,0.42,36
+2024-06-02,10,40,Plot D,22,55,3,Sunny,Lavender,0.9,Honeybee,Small Bee,14,0.12,18
+2024-06-02,11,55,Plot A,24,50,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,11,0.31,28
+2024-06-02,13,20,Plot B,26,45,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,7,0.46,37
+2024-06-02,14,35,Plot C,28,40,7,Sunny,Lavender,0.7,Honeybee,Small Bee,13,0.11,17
+2024-06-02,15,50,Plot D,25,55,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,8,0.27,25
+2024-06-02,16,15,Plot A,23,60,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,5,0.44,35
+2024-06-03,8,20,Plot A,19,62,3,Sunny,Lavender,0.8,Honeybee,Small Bee,11,0.12,18
+2024-06-03,9,35,Plot B,21,58,2,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,9,0.28,26
+2024-06-03,10,50,Plot C,23,54,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,6,0.47,38
+2024-06-03,11,25,Plot D,25,50,3,Sunny,Lavender,0.7,Honeybee,Small Bee,16,0.11,17
+2024-06-03,13,40,Plot A,27,46,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,12,0.30,27
+2024-06-03,14,55,Plot B,29,42,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,8,0.49,39
+2024-06-03,16,10,Plot C,26,48,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,10,0.13,19
+2024-06-03,17,25,Plot D,24,52,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,7,0.26,24
+2024-06-04,7,30,Plot A,17,68,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,7,0.10,16
+2024-06-04,8,45,Plot B,19,64,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,10,0.29,27
+2024-06-04,9,20,Plot C,21,60,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,5,0.42,36
+2024-06-04,10,35,Plot D,23,56,3,Sunny,Lavender,0.9,Honeybee,Small Bee,15,0.12,18
+2024-06-04,11,50,Plot A,25,52,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,13,0.31,28
+2024-06-04,13,15,Plot B,27,48,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,9,0.46,37
+2024-06-04,14,30,Plot C,29,44,7,Sunny,Lavender,0.7,Honeybee,Small Bee,12,0.11,17
+2024-06-04,15,45,Plot D,26,50,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,8,0.27,25
+2024-06-04,16,10,Plot A,24,54,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,6,0.44,35
+2024-06-05,8,25,Plot A,20,61,3,Sunny,Lavender,0.8,Honeybee,Small Bee,12,0.12,18
+2024-06-05,9,40,Plot B,22,57,2,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,9,0.28,26
+2024-06-05,10,55,Plot C,24,53,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,7,0.47,38
+2024-06-05,11,30,Plot D,26,49,3,Sunny,Lavender,0.7,Honeybee,Small Bee,17,0.11,17
+2024-06-05,13,45,Plot A,28,45,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,14,0.30,27
+2024-06-05,14,20,Plot B,30,41,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,10,0.49,39
+2024-06-05,15,35,Plot C,27,47,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,11,0.13,19
+2024-06-05,16,50,Plot D,25,51,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,8,0.26,24
+2024-06-06,7,35,Plot A,18,66,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,8,0.10,16
+2024-06-06,8,50,Plot B,20,62,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,11,0.29,27
+2024-06-06,9,25,Plot C,22,58,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,6,0.42,36
+2024-06-06,10,40,Plot D,24,54,3,Sunny,Lavender,0.9,Honeybee,Small Bee,16,0.12,18
+2024-06-06,11,55,Plot A,26,50,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,15,0.31,28
+2024-06-06,13,20,Plot B,28,46,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,11,0.46,37
+2024-06-06,14,35,Plot C,30,42,7,Sunny,Lavender,0.7,Honeybee,Small Bee,13,0.11,17
+2024-06-06,15,50,Plot D,27,48,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,9,0.27,25
+2024-06-06,16,15,Plot A,25,52,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,7,0.44,35
+2024-06-07,8,30,Plot A,21,59,3,Sunny,Lavender,0.8,Honeybee,Small Bee,13,0.12,18
+2024-06-07,9,45,Plot B,23,55,2,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,10,0.28,26
+2024-06-07,10,20,Plot C,25,51,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,8,0.47,38
+2024-06-07,11,35,Plot D,27,47,3,Sunny,Lavender,0.7,Honeybee,Small Bee,18,0.11,17
+2024-06-07,13,50,Plot A,29,43,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,16,0.30,27
+2024-06-07,14,15,Plot B,31,39,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,12,0.49,39
+2024-06-07,15,30,Plot C,28,45,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,12,0.13,19
+2024-06-07,16,45,Plot D,26,49,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,9,0.26,24
+2024-06-08,7,40,Plot A,19,64,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,9,0.10,16
+2024-06-08,8,55,Plot B,21,60,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,12,0.29,27
+2024-06-08,9,30,Plot C,23,56,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,7,0.42,36
+2024-06-08,10,45,Plot D,25,52,3,Sunny,Lavender,0.9,Honeybee,Small Bee,17,0.12,18
+2024-06-08,11,20,Plot A,27,48,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,17,0.31,28
+2024-06-08,13,35,Plot B,29,44,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,13,0.46,37
+2024-06-08,14,50,Plot C,31,40,7,Sunny,Lavender,0.7,Honeybee,Small Bee,14,0.11,17
+2024-06-08,15,15,Plot D,28,46,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,10,0.27,25
+2024-06-08,16,30,Plot A,26,50,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,8,0.44,35
+2024-06-09,8,35,Plot A,22,57,3,Sunny,Lavender,0.8,Honeybee,Small Bee,14,0.12,18
+2024-06-09,9,50,Plot B,24,53,2,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,11,0.28,26
+2024-06-09,10,25,Plot C,26,49,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,9,0.47,38
+2024-06-09,11,40,Plot D,28,45,3,Sunny,Lavender,0.7,Honeybee,Small Bee,19,0.11,17
+2024-06-09,13,55,Plot A,30,41,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,18,0.30,27
+2024-06-09,14,20,Plot B,32,37,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,14,0.49,39
+2024-06-09,15,35,Plot C,29,43,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,13,0.13,19
+2024-06-09,16,50,Plot D,27,47,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,10,0.26,24
+2024-06-10,7,45,Plot A,20,62,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,10,0.10,16
+2024-06-10,8,20,Plot B,22,58,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,13,0.29,27
+2024-06-10,9,35,Plot C,24,54,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,8,0.42,36
+2024-06-10,10,50,Plot D,26,50,3,Sunny,Lavender,0.9,Honeybee,Small Bee,18,0.12,18
+2024-06-10,11,15,Plot A,28,46,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,19,0.31,28
+2024-06-10,13,30,Plot B,30,42,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,15,0.46,37
+2024-06-10,14,45,Plot C,32,38,7,Sunny,Lavender,0.7,Honeybee,Small Bee,15,0.11,17
+2024-06-10,15,20,Plot D,29,44,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,11,0.27,25
+2024-06-10,16,35,Plot A,27,48,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,9,0.44,35
+2024-06-11,8,40,Plot A,23,55,3,Sunny,Lavender,0.8,Honeybee,Small Bee,15,0.12,18
+2024-06-11,9,55,Plot B,25,51,2,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,12,0.28,26
+2024-06-11,10,30,Plot C,27,47,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,10,0.47,38
+2024-06-11,11,45,Plot D,29,43,3,Sunny,Lavender,0.7,Honeybee,Small Bee,20,0.11,17
+2024-06-11,13,20,Plot A,31,39,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,20,0.30,27
+2024-06-11,14,35,Plot B,33,35,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,16,0.49,39
+2024-06-11,15,50,Plot C,30,41,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,14,0.13,19
+2024-06-11,16,15,Plot D,28,45,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,11,0.26,24
+2024-06-12,7,50,Plot A,21,60,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,11,0.10,16
+2024-06-12,8,15,Plot B,23,56,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,14,0.29,27
+2024-06-12,9,30,Plot C,25,52,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,9,0.42,36
+2024-06-12,10,45,Plot D,27,48,3,Sunny,Lavender,0.9,Honeybee,Small Bee,19,0.12,18
+2024-06-12,11,20,Plot A,29,44,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,21,0.31,28
+2024-06-12,13,35,Plot B,31,40,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,17,0.46,37
+2024-06-12,14,50,Plot C,33,36,7,Sunny,Lavender,0.7,Honeybee,Small Bee,16,0.11,17
+2024-06-12,15,15,Plot D,30,42,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,12,0.27,25
+2024-06-12,16,30,Plot A,28,46,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,10,0.44,35
+2024-06-13,8,45,Plot A,24,53,3,Sunny,Lavender,0.8,Honeybee,Small Bee,16,0.12,18
+2024-06-13,9,20,Plot B,26,49,2,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,13,0.28,26
+2024-06-13,10,35,Plot C,28,45,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,11,0.47,38
+2024-06-13,11,50,Plot D,30,41,3,Sunny,Lavender,0.7,Honeybee,Small Bee,21,0.11,17
+2024-06-13,13,15,Plot A,32,37,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,22,0.30,27
+2024-06-13,14,30,Plot B,34,33,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,18,0.49,39
+2024-06-13,15,45,Plot C,31,39,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,15,0.13,19
+2024-06-13,16,20,Plot D,29,43,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,12,0.26,24
+2024-06-14,7,25,Plot A,22,58,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,12,0.10,16
+2024-06-14,8,40,Plot B,24,54,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,15,0.29,27
+2024-06-14,9,55,Plot C,26,50,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,10,0.42,36
+2024-06-14,10,20,Plot D,28,46,3,Sunny,Lavender,0.9,Honeybee,Small Bee,20,0.12,18
+2024-06-14,11,35,Plot A,30,42,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,23,0.31,28
+2024-06-14,13,50,Plot B,32,38,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,19,0.46,37
+2024-06-14,14,15,Plot C,34,34,7,Sunny,Lavender,0.7,Honeybee,Small Bee,17,0.11,17
+2024-06-14,15,30,Plot D,31,40,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,13,0.27,25
+2024-06-14,16,45,Plot A,29,44,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,11,0.44,35
+2024-06-15,8,30,Plot A,25,51,3,Sunny,Lavender,0.8,Honeybee,Small Bee,17,0.12,18
+2024-06-15,9,45,Plot B,27,47,2,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,14,0.28,26
+2024-06-15,10,20,Plot C,29,43,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,12,0.47,38
+2024-06-15,11,35,Plot D,31,39,3,Sunny,Lavender,0.7,Honeybee,Small Bee,22,0.11,17
+2024-06-15,13,50,Plot A,33,35,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,24,0.30,27
+2024-06-15,14,15,Plot B,35,31,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,20,0.49,39
+2024-06-15,15,30,Plot C,32,37,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,16,0.13,19
+2024-06-15,16,45,Plot D,30,41,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,13,0.26,24
+2024-06-16,7,35,Plot A,23,56,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,13,0.10,16
+2024-06-16,8,50,Plot B,25,52,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,16,0.29,27
+2024-06-16,9,15,Plot C,27,48,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,11,0.42,36
+2024-06-16,10,30,Plot D,29,44,3,Sunny,Lavender,0.9,Honeybee,Small Bee,21,0.12,18
+2024-06-16,11,45,Plot A,31,40,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,25,0.31,28
+2024-06-16,13,20,Plot B,33,36,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,21,0.46,37
+2024-06-16,14,35,Plot C,35,32,7,Sunny,Lavender,0.7,Honeybee,Small Bee,18,0.11,17
+2024-06-16,15,50,Plot D,32,38,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,14,0.27,25
+2024-06-16,16,15,Plot A,30,42,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,12,0.44,35
+2024-06-17,8,40,Plot A,26,49,3,Sunny,Lavender,0.8,Honeybee,Small Bee,18,0.12,18
+2024-06-17,9,55,Plot B,28,45,2,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,15,0.28,26
+2024-06-17,10,30,Plot C,30,41,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,13,0.47,38
+2024-06-17,11,45,Plot D,32,37,3,Sunny,Lavender,0.7,Honeybee,Small Bee,23,0.11,17
+2024-06-17,13,20,Plot A,34,33,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,26,0.30,27
+2024-06-17,14,35,Plot B,36,29,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,22,0.49,39
+2024-06-17,15,50,Plot C,33,35,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,17,0.13,19
+2024-06-17,16,15,Plot D,31,39,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,14,0.26,24
+2024-06-18,7,45,Plot A,24,54,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,14,0.10,16
+2024-06-18,8,20,Plot B,26,50,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,17,0.29,27
+2024-06-18,9,35,Plot C,28,46,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,12,0.42,36
+2024-06-18,10,50,Plot D,30,42,3,Sunny,Lavender,0.9,Honeybee,Small Bee,22,0.12,18
+2024-06-18,11,15,Plot A,32,38,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,27,0.31,28
+2024-06-18,13,30,Plot B,34,34,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,23,0.46,37
+2024-06-18,14,45,Plot C,36,30,7,Sunny,Lavender,0.7,Honeybee,Small Bee,19,0.11,17
+2024-06-18,15,20,Plot D,33,36,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,15,0.27,25
+2024-06-18,16,35,Plot A,31,40,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,13,0.44,35
+2024-06-19,8,50,Plot A,27,47,3,Sunny,Lavender,0.8,Honeybee,Small Bee,19,0.12,18
+2024-06-19,9,15,Plot B,29,43,2,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,16,0.28,26
+2024-06-19,10,30,Plot C,31,39,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,14,0.47,38
+2024-06-19,11,45,Plot D,33,35,3,Sunny,Lavender,0.7,Honeybee,Small Bee,24,0.11,17
+2024-06-19,13,20,Plot A,35,31,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,28,0.30,27
+2024-06-19,14,35,Plot B,37,27,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,24,0.49,39
+2024-06-19,15,50,Plot C,34,33,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,18,0.13,19
+2024-06-19,16,25,Plot D,32,37,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,15,0.26,24
+2024-06-20,7,30,Plot A,25,52,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,15,0.10,16
+2024-06-20,8,45,Plot B,27,48,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,18,0.29,27
+2024-06-20,9,20,Plot C,29,44,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,13,0.42,36
+2024-06-20,10,35,Plot D,31,40,3,Sunny,Lavender,0.9,Honeybee,Small Bee,23,0.12,18
+2024-06-20,11,50,Plot A,33,36,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,29,0.31,28
+2024-06-20,13,15,Plot B,35,32,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,25,0.46,37
+2024-06-20,14,30,Plot C,37,28,7,Sunny,Lavender,0.7,Honeybee,Small Bee,20,0.11,17
+2024-06-20,15,45,Plot D,34,34,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,16,0.27,25
+2024-06-20,16,20,Plot A,32,38,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,14,0.44,35
+2024-06-21,8,35,Plot A,28,45,3,Sunny,Lavender,0.8,Honeybee,Small Bee,20,0.12,18
+2024-06-21,9,50,Plot B,30,41,2,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,17,0.28,26
+2024-06-21,10,25,Plot C,32,37,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,15,0.47,38
+2024-06-21,11,40,Plot D,34,33,3,Sunny,Lavender,0.7,Honeybee,Small Bee,25,0.11,17
+2024-06-21,13,55,Plot A,36,29,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,30,0.30,27
+2024-06-21,14,20,Plot B,38,25,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,26,0.49,39
+2024-06-21,15,35,Plot C,35,31,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,19,0.13,19
+2024-06-21,16,50,Plot D,33,35,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,16,0.26,24
+2024-06-22,7,40,Plot A,26,50,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,16,0.10,16
+2024-06-22,8,55,Plot B,28,46,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,19,0.29,27
+2024-06-22,9,30,Plot C,30,42,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,14,0.42,36
+2024-06-22,10,45,Plot D,32,38,3,Sunny,Lavender,0.9,Honeybee,Small Bee,24,0.12,18
+2024-06-22,11,20,Plot A,34,34,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,31,0.31,28
+2024-06-22,13,35,Plot B,36,30,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,27,0.46,37
+2024-06-22,14,50,Plot C,38,26,7,Sunny,Lavender,0.7,Honeybee,Small Bee,21,0.11,17
+2024-06-22,15,15,Plot D,35,32,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,17,0.27,25
+2024-06-22,16,30,Plot A,33,36,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,15,0.44,35
+2024-06-23,8,45,Plot A,29,43,3,Sunny,Lavender,0.8,Honeybee,Small Bee,21,0.12,18
+2024-06-23,9,20,Plot B,31,39,2,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,18,0.28,26
+2024-06-23,10,35,Plot C,33,35,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,16,0.47,38
+2024-06-23,11,50,Plot D,35,31,3,Sunny,Lavender,0.7,Honeybee,Small Bee,26,0.11,17
+2024-06-23,13,15,Plot A,37,27,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,32,0.30,27
+2024-06-23,14,30,Plot B,39,23,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,28,0.49,39
+2024-06-23,15,45,Plot C,36,29,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,20,0.13,19
+2024-06-23,16,20,Plot D,34,33,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,17,0.26,24
+2024-06-24,7,25,Plot A,27,48,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,17,0.10,16
+2024-06-24,8,40,Plot B,29,44,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,20,0.29,27
+2024-06-24,9,55,Plot C,31,40,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,15,0.42,36
+2024-06-24,10,20,Plot D,33,36,3,Sunny,Lavender,0.9,Honeybee,Small Bee,25,0.12,18
+2024-06-24,11,35,Plot A,35,32,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,33,0.31,28
+2024-06-24,13,50,Plot B,37,28,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,29,0.46,37
+2024-06-24,14,15,Plot C,39,24,7,Sunny,Lavender,0.7,Honeybee,Small Bee,22,0.11,17
+2024-06-24,15,30,Plot D,36,30,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,18,0.27,25
+2024-06-24,16,45,Plot A,34,34,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,16,0.44,35
+2024-06-25,8,30,Plot A,30,41,3,Sunny,Lavender,0.8,Honeybee,Small Bee,22,0.12,18
+2024-06-25,9,45,Plot B,32,37,2,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,19,0.28,26
+2024-06-25,10,20,Plot C,34,33,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,17,0.47,38
+2024-06-25,11,35,Plot D,36,29,3,Sunny,Lavender,0.7,Honeybee,Small Bee,27,0.11,17
+2024-06-25,13,50,Plot A,38,25,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,34,0.30,27
+2024-06-25,14,15,Plot B,40,21,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,30,0.49,39
+2024-06-25,15,30,Plot C,37,27,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,21,0.13,19
+2024-06-25,16,45,Plot D,35,31,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,18,0.26,24
+2024-06-26,7,35,Plot A,28,46,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,18,0.10,16
+2024-06-26,8,50,Plot B,30,42,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,21,0.29,27
+2024-06-26,9,15,Plot C,32,38,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,16,0.42,36
+2024-06-26,10,30,Plot D,34,34,3,Sunny,Lavender,0.9,Honeybee,Small Bee,26,0.12,18
+2024-06-26,11,45,Plot A,36,30,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,35,0.31,28
+2024-06-26,13,20,Plot B,38,26,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,31,0.46,37
+2024-06-26,14,35,Plot C,40,22,7,Sunny,Lavender,0.7,Honeybee,Small Bee,23,0.11,17
+2024-06-26,15,50,Plot D,37,28,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,19,0.27,25
+2024-06-26,16,15,Plot A,35,32,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,17,0.44,35
+2024-06-27,8,40,Plot A,31,39,3,Sunny,Lavender,0.8,Honeybee,Small Bee,23,0.12,18
+2024-06-27,9,55,Plot B,33,35,2,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,20,0.28,26
+2024-06-27,10,30,Plot C,35,31,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,18,0.47,38
+2024-06-27,11,45,Plot D,37,27,3,Sunny,Lavender,0.7,Honeybee,Small Bee,28,0.11,17
+2024-06-27,13,20,Plot A,39,23,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,36,0.30,27
+2024-06-27,14,35,Plot B,41,19,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,32,0.49,39
+2024-06-27,15,50,Plot C,38,25,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,22,0.13,19
+2024-06-27,16,25,Plot D,36,29,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,19,0.26,24
+2024-06-28,7,30,Plot A,29,44,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,19,0.10,16
+2024-06-28,8,45,Plot B,31,40,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,22,0.29,27
+2024-06-28,9,20,Plot C,33,36,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,17,0.42,36
+2024-06-28,10,35,Plot D,35,32,3,Sunny,Lavender,0.9,Honeybee,Small Bee,27,0.12,18
+2024-06-28,11,50,Plot A,37,28,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,37,0.31,28
+2024-06-28,13,15,Plot B,39,24,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,33,0.46,37
+2024-06-28,14,30,Plot C,41,20,7,Sunny,Lavender,0.7,Honeybee,Small Bee,24,0.11,17
+2024-06-28,15,45,Plot D,38,26,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,20,0.27,25
+2024-06-28,16,20,Plot A,36,30,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,18,0.44,35
+2024-06-29,8,35,Plot A,32,37,3,Sunny,Lavender,0.8,Honeybee,Small Bee,24,0.12,18
+2024-06-29,9,50,Plot B,34,33,2,Sunny,Sunflower,1.0,Bumblebee,Medium Bee,21,0.28,26
+2024-06-29,10,25,Plot C,36,29,4,Partly Cloudy,Coneflower,0.9,Carpenter Bee,Large Bee,19,0.47,38
+2024-06-29,11,40,Plot D,38,25,3,Sunny,Lavender,0.7,Honeybee,Small Bee,29,0.11,17
+2024-06-29,13,55,Plot A,40,21,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,38,0.30,27
+2024-06-29,14,20,Plot B,42,17,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,34,0.49,39
+2024-06-29,15,35,Plot C,39,23,4,Cloudy,Lavender,0.6,Honeybee,Small Bee,23,0.13,19
+2024-06-29,16,50,Plot D,37,27,3,Partly Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,20,0.26,24
+2024-06-30,7,40,Plot A,30,42,2,Cloudy,Lavender,0.5,Honeybee,Small Bee,20,0.10,16
+2024-06-30,8,55,Plot B,32,38,3,Partly Cloudy,Sunflower,0.8,Bumblebee,Medium Bee,23,0.29,27
+2024-06-30,9,30,Plot C,34,34,4,Sunny,Coneflower,0.7,Carpenter Bee,Large Bee,18,0.42,36
+2024-06-30,10,45,Plot D,36,30,3,Sunny,Lavender,0.9,Honeybee,Small Bee,28,0.12,18
+2024-06-30,11,20,Plot A,38,26,5,Sunny,Sunflower,1.1,Bumblebee,Medium Bee,39,0.31,28
+2024-06-30,13,35,Plot B,40,22,6,Partly Cloudy,Coneflower,0.8,Carpenter Bee,Large Bee,35,0.46,37
+2024-06-30,14,50,Plot C,42,18,7,Sunny,Lavender,0.7,Honeybee,Small Bee,25,0.11,17
+2024-06-30,15,15,Plot D,39,24,4,Cloudy,Sunflower,0.9,Bumblebee,Medium Bee,21,0.27,25
+2024-06-30,16,30,Plot A,37,28,3,Partly Cloudy,Coneflower,0.6,Carpenter Bee,Large Bee,19,0.44,35
