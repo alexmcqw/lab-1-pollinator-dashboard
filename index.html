@@ -70,14 +70,9 @@
     <h2>Data Overview</h2>
     <p>The dataset contains observations from June 1-30, 2024, across four garden plots (A, B, C, D) with three bee species (Honeybee, Bumblebee, Carpenter Bee) visiting three flower types (Lavender, Sunflower, Coneflower).</p>
     
-    <h2>Question 1: Body Mass Distribution by Pollinator Species</h2>
+    <h2>Question 1: Body Mass vs Wing Span by Pollinator Species</h2>
     <div class="chart-container">
         <div id="body-mass-chart"></div>
-    </div>
-    
-    <h2>Question 1: Wing Span Distribution by Pollinator Species</h2>
-    <div class="chart-container">
-        <div id="wing-span-chart"></div>
     </div>
     
     <h2>Question 2: Pollinator Activity by Weather Condition</h2>
@@ -129,11 +124,12 @@
     <div class="summary">
         <h2>Key Findings</h2>
         
-        <h3>Question 1: Body Mass and Wing Span Distribution</h3>
+        <h3>Question 1: Body Mass and Wing Span Relationship</h3>
         <ul>
-            <li><strong>Honeybees</strong> are the smallest (0.10-0.13g body mass, 16-19mm wingspan)</li>
-            <li><strong>Bumblebees</strong> are medium-sized (0.26-0.31g body mass, 24-28mm wingspan)</li>
-            <li><strong>Carpenter Bees</strong> are the largest (0.42-0.49g body mass, 35-39mm wingspan)</li>
+            <li><strong>Honeybees</strong> cluster in the lower-left (0.10-0.13g body mass, 16-19mm wingspan)</li>
+            <li><strong>Bumblebees</strong> cluster in the middle (0.26-0.31g body mass, 24-28mm wingspan)</li>
+            <li><strong>Carpenter Bees</strong> cluster in the upper-right (0.42-0.49g body mass, 35-39mm wingspan)</li>
+            <li><strong>Strong positive correlation</strong> between body mass and wing span across all species</li>
         </ul>
         
         <h3>Question 2: Ideal Weather Conditions</h3>
@@ -194,37 +190,21 @@
         // Create visualizations
         document.getElementById("body-mass-chart").appendChild(
             Plot.plot({
-                title: "Body Mass Distribution by Pollinator Species",
+                title: "Body Mass vs Wing Span by Pollinator Species",
                 marks: [
-                    Plot.boxX(data, {
+                    Plot.dot(data, {
                         x: "avg_body_mass_g",
-                        y: "pollinator_species",
-                        fill: "pollinator_species"
+                        y: "avg_wing_span_mm",
+                        fill: "pollinator_species",
+                        r: 6,
+                        opacity: 0.7
                     })
                 ],
                 x: {label: "Body Mass (grams)", grid: true},
-                y: {label: "Pollinator Species"},
+                y: {label: "Wing Span (millimeters)", grid: true},
                 color: {legend: true},
                 width: 800,
-                height: 300
-            })
-        );
-
-        document.getElementById("wing-span-chart").appendChild(
-            Plot.plot({
-                title: "Wing Span Distribution by Pollinator Species",
-                marks: [
-                    Plot.boxX(data, {
-                        x: "avg_wing_span_mm",
-                        y: "pollinator_species",
-                        fill: "pollinator_species"
-                    })
-                ],
-                x: {label: "Wing Span (millimeters)", grid: true},
-                y: {label: "Pollinator Species"},
-                color: {legend: true},
-                width: 800,
-                height: 300
+                height: 500
             })
         );
 
